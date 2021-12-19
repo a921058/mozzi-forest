@@ -47,8 +47,9 @@
 .visual{
     background-image: url(../images/mainvisual.jpg);
     background-repeat: no-repeat;
+    background-position: center;
     height: 670px;
-    width: 100%;
+    width: 100vw;
     position: relative;
     margin-top: 3px;
 }
